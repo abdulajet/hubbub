@@ -1,6 +1,6 @@
 # HubHub
 
-> a GitHub App built with [probot](https://github.com/probot/probot) that 
+> a GitHub App built with [probot](https://github.com/probot/probot) that pushes notifications to https://github.com/abdulajet/hubbubweb
 
 ## Setup
 
